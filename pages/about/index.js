@@ -41,7 +41,7 @@ const aboutData = [
         <SiTailwindcss key="tailwind"/>,
         <SiBootstrap key="bootstrap"/>,
         <SiFramer key="framer"/>,
-        // <FaWordpress key="wordpress" />
+        <FaWordpress key="wordpress" />
       ],
       },
       {
